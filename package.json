@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "workspaces": ["packages/*"],
+  "name": "wordpress_spreadec2tords",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Codelessandro/wordpress_spreadec2tords.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Codelessandro/wordpress_spreadec2tords/issues"
+  },
+  "homepage": "https://github.com/Codelessandro/wordpress_spreadec2tords#readme"
+}
